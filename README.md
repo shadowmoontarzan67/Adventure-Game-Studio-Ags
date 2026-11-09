@@ -196,3 +196,6 @@ This repository serves as the official landing page for Adventure Game Studio. T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Adventure Game Studio today!**
+
+---
+**Last updated:** 2026-11-09 09:04:52 UTC
