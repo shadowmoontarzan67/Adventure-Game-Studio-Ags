@@ -198,4 +198,4 @@ This repository serves as the official landing page for Adventure Game Studio. T
 **Get the most recent version of Adventure Game Studio today!**
 
 ---
-**Last updated:** 2026-11-11 15:50:27 UTC
+**Last updated:** 2026-11-11 22:27:54 UTC
